@@ -51,7 +51,7 @@ class Ring(object):
         _, node = max(weights)
         return node
         """
-        TODO
+        Tasks:
         1. Loop through all the nodes.
         2. Compute the weight for each node for the given key.
         3. return the node that gave the highest weight.
